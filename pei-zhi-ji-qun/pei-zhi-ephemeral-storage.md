@@ -1,0 +1,2 @@
+# 配置Ephemeral Storage
+
